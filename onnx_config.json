@@ -1,0 +1,8 @@
+{
+  "output_size": 512,
+  "crop_offset": 0,
+  "model": "model dir",
+  "input_dir": "input jpg dir",
+  "save_dir": "where to save the dets",
+  "coco_gt": "coco groundtruth json path"
+}
